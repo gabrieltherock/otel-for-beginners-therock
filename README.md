@@ -9,6 +9,7 @@ Este repositório contém uma coleção de recursos, tutoriais e exemplos para a
 ## Por onde começar
 1. **Conceitos**: Entenda o que são essas coisas:
    - Rastreamento Distribuído (Distributed Tracing) com Spans e Traces
+     - Aqui, presta atenção na diferença entre Span e Trace, e o que são Events dentro de um Span: onde e quando usá-los da melhor forma.
    - Métricas (Metrics) e qual a sua importância e ganho para monitoramento e NEGÓCIO
 2. **Componentes do OpenTelemetry**:
    - SDKs e APIs
